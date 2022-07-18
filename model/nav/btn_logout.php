@@ -1,0 +1,1 @@
+<button class="btn btn-outline-danger d-flex" type="submit">ออกจากระบบ</button>

@@ -1,0 +1,8 @@
+- admin
+- person
+- document_upload_indexpage
+- document_law_indexpage
+- position
+- department
+- blog_newsheadline  (news) //ข่าว
+- blog_info (release) ประชาสัมพันธ์

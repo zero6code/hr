@@ -1,0 +1,21 @@
+กฏระเรียบ/ข้อบังคับ/หลักเกณฑ์ต่างๆ
+
+table name: document_law_indexpage
+
+- colunm [
+	id,
+	docname	=> "คือ เรื่องที่โพส",
+	docpath	=> "คือ ไฟล์อยู่ที่ไหน",
+	tab_menu	=> "คือ จะไปแสดงที่ tab ไหน" => {
+								DocUploadTab1 => "tab ข้าราชการ",
+								DocUploadTab2 => "tab พนักงานราชการ",
+								DocUploadTab3 => "tab พนักงานกระทรวงสาธารณสุข",
+								DocUploadTab4 => "tab ลูกจ้างประจำ",
+								DocUploadTab5 => "tab ลูกจ้างชั่วคราว",
+								DocUploadTab6 => "tab อื่นๆ"		
+							   },
+	status_use => กำหนดว่าไฟล์นี้จะถูกใช้ หรือไม่ {
+								Y => "ใช้",
+							      N => "ไม่ใช้"
+							}
+]

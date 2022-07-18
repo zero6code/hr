@@ -1,0 +1,13 @@
+body{
+	margin: 0;
+	background-color: #33A8FF;
+}
+*{
+    font-family: 'Sukhumvit';
+}
+@font-face {
+    font-family: Sukhumvit;
+    src: url('font/SukhumvitSet-Text.ttf');
+    src: url('font/SukhumvitSet-Bold.ttf');
+}
+
